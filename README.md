@@ -1,8 +1,8 @@
-# Atividade Projeto Estruturado [APE]
+# Trabalho de GIT
 
+## Claudinei Januario Junior RA: 00200780
 
-
-#### 1. O que é GIT?
+### 1. O que é GIT?
 
 
 ### 2.  O que é versionamento de software?

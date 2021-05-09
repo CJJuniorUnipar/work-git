@@ -4,6 +4,7 @@
 
 ### 1. O que é GIT?
 
+git é git poh, e ponto final.
 
 ### 2.  O que é versionamento de software?
 
